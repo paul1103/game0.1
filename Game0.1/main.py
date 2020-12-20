@@ -2,6 +2,8 @@ import pygame
 from game import Game
 pygame.init()
 
+# Theo made a commit here
+
 #Fenetre menu principal
 pygame.display.set_caption("PaulGame")
 screen = pygame.display.set_mode((1080, 720))
